@@ -1,3 +1,4 @@
+# Restaurant Rating and recommendations System
 # Cognifyz-Internship-Projects
 
 This repository showcases the tasks completed during my **Machinee learning at Cognifyz Technologies**. Each task focuses on a specific real-world problem using data analysis and machine learning.
